@@ -1,2 +1,5 @@
 commit --amend
 commit --amend2
+commit --amend2
+commit --amend2
+commit --amend2
