@@ -1,1 +1,1 @@
-alert('xin chao');
+confirm('Dong y tiep tuc');
