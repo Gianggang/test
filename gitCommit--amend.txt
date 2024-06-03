@@ -1,0 +1,2 @@
+khong thay doi thong diep
+su dung git reset
